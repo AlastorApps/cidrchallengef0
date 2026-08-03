@@ -9,6 +9,6 @@ App(
     fap_icon="icons/cidr_challenge_10px.png",
     fap_author="Alastor",
     fap_version="1.0",
-    fap_description="IPv4 subnetting trainer with timed challenges, survival runs, exams and XP progression.",
+    fap_description="Offline IPv4 subnetting trainer with timed challenges, survival runs, exams and XP progression.",
     fap_weburl="https://github.com/AlastorApps/cidrchallengef0",
 )
