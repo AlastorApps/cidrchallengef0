@@ -20,7 +20,8 @@ source:
 screenshots:
   - screenshots/menu.png
   - screenshots/challenge.png
-  - screenshots/exam_result.png.png
+  - screenshots/exam_result.png
+  - screenshots/statistics.png
 
 icon: icons/cidr_challenge_10px.png
 
