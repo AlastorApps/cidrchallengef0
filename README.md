@@ -150,6 +150,39 @@ screenshots/           framebuffer captures used in this README
 dist/                  prebuilt cidr_challenge.fap
 ```
 
+## Compatibility
+
+Tested on:
+
+- Flipper Zero
+- Official firmware
+- Momentum firmware
+- RogueMaster firmware
+
+Requires:
+- Internal storage only
+- No external modules
+- No internet connection
+- No additional databases
+
+
+## Contributing
+
+Pull requests and suggestions are welcome.
+
+Ideas, bug reports and feature requests can be opened through GitHub Issues.
+
+
+## Who is this for?
+
+- Network+ students
+- CCNA candidates
+- Cybersecurity students
+- Pentesters
+- Network administrators
+- Anyone wanting to improve IPv4 subnetting speed
+
+
 ## License
 
 GPL-3.0. See [LICENSE](LICENSE).
